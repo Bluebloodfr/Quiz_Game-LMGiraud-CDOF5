@@ -14,6 +14,6 @@ You will need Python installed on your system to run the Quiz Game. Python 3.6 o
 
 To get your development environment running, clone the repository to your local machine:
 
-'''
+```
 git clone https://github.com/yourusername/quiz-game.git
-'''
+```
