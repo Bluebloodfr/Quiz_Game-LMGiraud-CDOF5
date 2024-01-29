@@ -88,5 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * A big thank you to everyone who has contributed to this project!
 * Special thanks to the Python community for maintaining such a robust and easy-to-learn language.
-
-a
